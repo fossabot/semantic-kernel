@@ -13,6 +13,7 @@
 
 [![License: MIT](https://img.shields.io/github/license/microsoft/semantic-kernel)](https://github.com/microsoft/semantic-kernel/blob/main/LICENSE)
 [![Discord](https://img.shields.io/discord/1063152441819942922?label=Discord&logo=discord&logoColor=white&color=d82679)](https://aka.ms/SKDiscord)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSynctest-hub%2Fsemantic-kernel.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSynctest-hub%2Fsemantic-kernel?ref=badge_shield)
 
 [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
 is an SDK that integrates Large Language Models (LLMs) like
@@ -163,3 +164,6 @@ with any additional questions or comments.
 Copyright (c) Microsoft Corporation. All rights reserved.
 
 Licensed under the [MIT](LICENSE) license.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSynctest-hub%2Fsemantic-kernel.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSynctest-hub%2Fsemantic-kernel?ref=badge_large)
